@@ -71,7 +71,7 @@
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
           <li><a href="#pricing">Pricing</a></li>
-          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#misc">IDK</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .navbar -->
@@ -89,7 +89,9 @@
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
           <h2>Hello from <span>BUD-EE!</span></h2>
-          <p>Sed autem laudantium dolores. Voluptatem itaque ea consequatur eveniet. Eum quas beatae cumque eum quaerat.</p>
+          <p>The application that implements the perfect blend of innovative smart home automation and energy efficiency. <br>
+            BUD-EE will look out for all your needs and wants in your home to ensure you live your best life!   
+          </p>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started">Get Started</a>
           </div>
@@ -166,8 +168,10 @@
               <div class="icon">
                 <i class="bi bi-activity"></i>
               </div>
-              <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+              <h3>Comfort</h3>
+              <p>Our main goal is to bring a new form of comfort to your home. With BUD-EE, you can be certain that all your routines and 
+                likes will be outstandingly met without a worry!
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -176,8 +180,10 @@
               <div class="icon">
                 <i class="bi bi-broadcast"></i>
               </div>
-              <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <h3>Adaptability</h3>
+              <p>With a innovative software and algorithm, we provide incredible adaptability to your routines and daily activities. With us, not a minute of your day
+                will go unnoticed because we will be with you in every part of it.
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -186,8 +192,10 @@
               <div class="icon">
                 <i class="bi bi-easel"></i>
               </div>
-              <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <h3>Security</h3>
+              <p>Not only do we cater to your day-to-day activities, but we also ensure to protect you and your home with a rigorous security system.
+                Depending on what you want, we offer 24 hour surveilance directly displayed to your personal device, aswell as automatically set security alarms both during the day and at night.
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -196,8 +204,10 @@
               <div class="icon">
                 <i class="bi bi-bounding-box-circles"></i>
               </div>
-              <h3>Asperiores Commodit</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <h3>Protection</h3>
+              <p>For BUD-EE to work in its best way, we must consume a lot of your personal data, and we understand that may be quite scary! Not to worry though, 
+                we take versy seriously the protection of your data with extensive algorithms that prevent any breach in data.
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -206,8 +216,8 @@
               <div class="icon">
                 <i class="bi bi-calendar4-week"></i>
               </div>
-              <h3>Velit Doloremque</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <h3>Compatibility</h3>
+              <p>We ensure perfect compatibility with BUD-EE and all your electronic devices around your home to give you the best experience possible.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -216,8 +226,8 @@
               <div class="icon">
                 <i class="bi bi-chat-square-text"></i>
               </div>
-              <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <h3>Support</h3>
+              <p>We aim to support you in all the ways possibly. Whether it is by helping you with your daily activites through BUD-EE, or taking your calls to help you with any problems, the BUD-EE team will always be enthusiastic to help!</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -233,16 +243,19 @@
 
         <div class="section-header">
           <h2>Our Team</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+          <p>Come meet the great team of creators that built BUD-EE just for you!</p>
         </div>
 
         <div class="row gy-4">
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-              <h4>Walter White</h4>
-              <span>Web Development</span>
+              <h4>Britney Lekiaka</h4>
+              <span>CEO</span>
+              <p>Had this idea when brainstorming about conveninet ways of how people can reduce their energy unsage in a luxury manner.
+                Britney began to set the foundations for BUD-EE with the help of Michael before recruiting the rest of the team to help, because they had such a big hope that 
+                BUD-EE would succeed in the market.
+              </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -254,9 +267,12 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-              <h4>Sarah Jhinson</h4>
+              <h4>Shivansh Moore</h4>
               <span>Marketing</span>
+              <p>Right after hearing about the idea, Shivansh got right to work to create the most appropriate business plan to ensure that BUD-EE would become a prominent product in the market.
+                He conducted plenty of market reserach with the help of Joburaz to be sure of what was the best services to provide the customers with. Shivansh is also in charge of
+                promoting BUD-EE to our customers in many ways.
+              </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -268,9 +284,12 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Marketing</span>
+              <h4>Fabiana Carbonell</h4>
+              <span>Accountant</span>
+              <p>Fabiana conducted extensive research on the market and future competitors to present a viable financial plan for the business. She studied consumer behaviour with
+                respect to prices and helped Shivansh and Joburaz with their breifing of the business plan to many investors and future partners. She works extensively to ensure we 
+                are providing the best quality of our product at a reasonable price.
+              </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -282,9 +301,12 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-              <h4>William Anderson</h4>
-              <span>Content</span>
+              <h4>Michael Carroll</h4>
+              <span>Software Developer</span>
+              <p>After being contacted by Britney with the draft idea for BUD-EE, Micahel began long hours of work for what would soon become BUD-EE.
+                He also worked with Shivansh and Joburaz to provide all the most important and adequet services that would definetly make out product stand out in the market.
+                With a great interest in technological compatibility, Michael also spent hours ensuring that BUD-EE is able to connect with many appliances and technological devices around the home.
+              </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -296,9 +318,12 @@
 
           <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
-              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-              <h4>Amanda Jepson</h4>
-              <span>Accountant</span>
+              <h4>Joburaz Khondoker</h4>
+              <span>Researcher</span>
+              <p>Joburaz did extensive research in many fields to ensure that BUD-EE was a profitable and innovative idea. He carried out both field and desk research to find the 
+                most trustworthy results. As technology is always changing and adapting, JOburaz will always continue to continue his research to ensure that BUD-EE offers our loyal customers
+                the best services possible.
+              </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
@@ -384,102 +409,47 @@
       </div>
     </section><!-- End Pricing Section -->
 
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq">
+    <!-- ======= Misc Section ======= -->
+    <section id="misc" class="about">
       <div class="container" data-aos="fade-up">
 
+        <div class="section-header">
+          <h2>IDK what this title is yet...</h2>
+          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+        </div>
+
         <div class="row gy-4">
-
-          <div class="col-lg-4">
-            <div class="content px-xl-5">
-              <h3>Frequently Asked <strong>Questions</strong></h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-              </p>
-            </div>
+          <div class="col-lg-6">
+            <h3>Voluptatem dignissimos provident quasi corporis</h3>
+            <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p>
+            <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p>
           </div>
+          <div class="col-lg-6">
+            <div class="content ps-0 ps-lg-5">
+              <p class="fst-italic">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                magna aliqua.
+              </p>
+              <ul>
+                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              </ul>
+              <p>
+                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              </p>
 
-          <div class="col-lg-8">
-
-            <div class="accordion accordion-flush" id="faqlist" data-aos="fade-up" data-aos-delay="100">
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
-                    <span class="num">1.</span>
-                    Non consectetur a erat nam at lectus urna duis?
-                  </button>
-                </h3>
-                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
-                    <span class="num">2.</span>
-                    Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?
-                  </button>
-                </h3>
-                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
-                    <span class="num">3.</span>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
-                  </button>
-                </h3>
-                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
-                    <span class="num">4.</span>
-                    Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
-                  </button>
-                </h3>
-                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
-              <div class="accordion-item">
-                <h3 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
-                    <span class="num">5.</span>
-                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
-                  </button>
-                </h3>
-                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                  <div class="accordion-body">
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </div>
-                </div>
-              </div><!-- # Faq item-->
-
+              <div class="position-relative mt-4">
+                <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
+                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+              </div>
             </div>
-
           </div>
         </div>
 
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section><!-- End Misc Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -499,7 +469,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Dublin City University, Dublin, Ireland</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -507,7 +477,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p>info@example.com</p>
+                  <p>bud_ee.team@gmail.com</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -515,7 +485,7 @@
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
                   <h4>Call:</h4>
-                  <p>+1 5589 55488 55</p>
+                  <p>+353 087 369 7898</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -569,9 +539,9 @@
       <div class="row gy-4">
         <div class="col-lg-5 col-md-12 footer-info">
           <a href="index.html" class="logo d-flex align-items-center">
-            <span>Impact</span>
+            <span>BUD-EE</span>
           </a>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <p>Always prepared to look after you and your home!</p>
           <div class="social-links d-flex mt-4">
             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -605,11 +575,12 @@
         <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
           <h4>Contact Us</h4>
           <p>
-            A108 Adam Street <br>
-            New York, NY 535022<br>
-            United States <br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
+            The BUD-EE Team <br>
+            Dublin City University <br>
+            Co. Dublin<br>
+            Ireland <br><br>
+            <strong>Phone:</strong> +353 087 369 7898<br>
+            <strong>Email:</strong> bud_ee.team@gmail.com<br>
           </p>
 
         </div>
