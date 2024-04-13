@@ -338,13 +338,13 @@
       </div>
     </section><!-- End Our Team Section -->
 
-    <!-- ======= Pricing Section ======= -->
+        <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing sections-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Pricing</h2>
-          <p>Aperiam dolorum et et wuia molestias qui eveniet numquam nihil porro incidunt dolores placeat sunt id nobis omnis tiledo stran delop</p>
+          <p>Embrace the future of home automation with BUD-EE's smart home system. Designed to integrate seamlessly into your daily life, BUD-EE offers personalized automation that adapts to your routines, enhances your home's security, and optimizes energy efficiency. Explore our competitive pricing plans tailored to fit different needs and budgets.</p>
         </div>
 
         <div class="row g-4 py-lg-5" data-aos="zoom-out" data-aos-delay="100">
@@ -357,11 +357,10 @@
               </div>
               <h4><sup>$</sup>0<span> / month</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
+                <li><i class="bi bi-check"></i> Basic home monitoring and automation</li>
+                <li><i class="bi bi-check"></i> Integration with up to 5 smart devices</li>
+                <li><i class="bi bi-check"></i> Real-time data monitoring</li>
+                <li><i class="bi bi-check"></i> Manual device control via app</li>
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
@@ -376,11 +375,10 @@
 
               <h4><sup>$</sup>29<span> / month</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                <li><i class="bi bi-check"></i> Automatic device control based on learned routines and preferences</li>
+                <li><i class="bi bi-check"></i> Integration with unlimited smart devices</li>
+                <li><i class="bi bi-check"></i> Energy consumption analytics</li>
+                <li><i class="bi bi-check"></i> Enhanced security with real-time alerts and remote monitoring</li>
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
@@ -394,11 +392,10 @@
               </div>
               <h4><sup>$</sup>49<span> / month</span></h4>
               <ul>
-                <li><i class="bi bi-check"></i> Quam adipiscing vitae proin</li>
-                <li><i class="bi bi-check"></i> Nec feugiat nisl pretium</li>
-                <li><i class="bi bi-check"></i> Nulla at volutpat diam uteera</li>
-                <li><i class="bi bi-check"></i> Pharetra massa massa ultricies</li>
-                <li><i class="bi bi-check"></i> Massa ultricies mi quis hendrerit</li>
+                <li><i class="bi bi-check"></i> Comprehensive automation of lighting, temperature, and appliances</li>
+                <li><i class="bi bi-check"></i> Advanced security protocols with encrypted data storage</li>
+                <li><i class="bi bi-check"></i> Priority customer support with setup and troubleshooting</li>
+                <li><i class="bi bi-check"></i> Inclusive of all software updates and new features</li>
               </ul>
               <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
             </div>
