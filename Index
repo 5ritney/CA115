@@ -108,6 +108,53 @@
 
   <main id="main">
 
+    <!-- ======= Product Page  ======= -->
+    <section id="product" class="product">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2> Introducing Bud-EE </h2>
+          <p>Bud-EE  is our smart home automation system that uses advanced data analytics.It learns your daily routines, preferences, and energy usage patterns of the user to optimise your home's energy efficiency. 
+The system can automatically adjust lighting, temperature, and other appliances based on your needs, ultimately saving energy and reducing their carbon footprint. Plus, it can be controlled from a user-friendly app on your phone. 
+This smart home automation system integrates with other smart devices. It can also connect with devices like smart speakers, security systems, thermostats, and even smart appliances. 
+You'll have a seamless and interconnected smart home experience, where all your devices work together to make your life easier and more convenient. 
+The system collects data through sensors and devices in the home. It analyses this data to learn the habits and preferences of the customer, allowing it to optimise the home's automation. 
+However, the system would only collect data necessary for its functionalities and would not share personal information with third parties without consent.
+</p>
+        </div>
+
+        <div class="row gy-4">
+          <div class="col-lg-6">
+            <h3>Quality Promise</h3>
+            <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
+            <p> * Reliability: Our system is built on robust technology to ensure uninterrupted performance, giving you confidence in its reliability day in and day out.  </p>
+            <p> * Seamless Integration: Enjoy effortless integration with your existing devices and systems, allowing for a cohesive and harmonious smart home experience. </p>
+            <p> * Intuitive Control: Take control of your home with ease through user-friendly interfaces and intuitive controls designed to simplify your interactions with the system. </p>
+            <p> * Enhanced Security: Rest assured knowing that your home is safeguarded with state-of-the-art security features, including encrypted communication and intrusion detection. </p>
+            <p> * Personalised Automation: Tailor your smart home to fit your lifestyle with customisable automation options that adapt to your preferences and routines. </p>
+            <p> * Continuous Improvement: We are committed to ongoing updates and enhancements to ensure that your smart home experience evolves with the latest advancements in technology </p>
+          </div>
+          <div class="col-lg-6">
+            <div class="content ps-0 ps-lg-5">
+          
+              <ul>
+                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                <li><i class="bi bi-check-circle-fill"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+                <li><i class="bi bi-check-circle-fill"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              </ul>
+
+              <div class="position-relative mt-4">
+                <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
+                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- Product Page -->
+
+
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
